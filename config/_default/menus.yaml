@@ -7,18 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
   - name: Publications
-    url: '#featured'
-    weight: 50
+    url: https://scholar.google.co.jp/citations?user=gxDVW74AAAAJ&hl=ja
+    weight: 20
+  - name: CV
+    url: 'TBD'
+    weight: 30
   - name: Contact
     url: '#contact'
     weight: 60

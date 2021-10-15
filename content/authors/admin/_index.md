@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Takahiro Yoshinaga, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data Scientist/Machine Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: LINE Corporation
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mathematical Science and Data Science
+- Machine Learning
+- Theoretical Physics
+- Mathematics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Physics (Elementary Particle Theory)
+    institution: The University of Tokyo
+    year: 2015
+  - course: M.S. in Physics (Elementary Particle Theory)
+    institution: The University of Tokyo
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.S in Physics
+    institution: Saitama University
+    year: 2010
+  - course: B.S in Chemistry
+    institution: Saitama University
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +49,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/t_yoshinaga0106
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.jp/citations?user=gxDVW74AAAAJ&hl=ja
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yoshinaga0106
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/takahiro-yoshinaga-ph-d-643642b1/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +74,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Takahiro Yoshinaga is an engineering manager in data science and machine learning at LINE Corp. His research interests include mathematical science and data science, machine learning, theoretical physics, mathematics, and its application to industries.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Feel free to send me a direct message on Twitter, LinkedIn or get in touch via email.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
