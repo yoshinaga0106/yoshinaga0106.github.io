@@ -26,16 +26,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Physics (Elementary Particle Theory)
+  - course: Ph.D. in Physics (Elementary Particle Theory)
     institution: The University of Tokyo
     year: 2015
   - course: M.S. in Physics (Elementary Particle Theory)
     institution: The University of Tokyo
     year: 2012
-  - course: B.S in Physics
+  - course: B.S. in Physics
     institution: Saitama University
     year: 2010
-  - course: B.S in Chemistry
+  - course: B.S. in Chemistry
     institution: Saitama University
     year: 2006
 
