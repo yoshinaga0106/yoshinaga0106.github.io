@@ -11,7 +11,7 @@ main:
     url: https://scholar.google.co.jp/citations?user=gxDVW74AAAAJ&hl=ja
     weight: 20
   - name: CV
-    url: 'TBD'
+    url: https://www.linkedin.com/in/takahiro-yoshinaga-ph-d-643642b1/
     weight: 30
   - name: Contact
     url: '#contact'

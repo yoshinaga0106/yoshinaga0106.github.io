@@ -78,4 +78,6 @@ Dr. Takahiro Yoshinaga is an engineering manager in data science and machine lea
 
 Feel free to send me a direct message on Twitter, LinkedIn or get in touch via email.
 
+<!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
